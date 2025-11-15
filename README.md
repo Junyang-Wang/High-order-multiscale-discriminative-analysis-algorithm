@@ -5,14 +5,14 @@ The Matlab version of this code is Matlab R2020b with the required toolboxes, te
 Author: Xiaoyu Zhou, xiaoyu_zhou@tju.edu.cn
 
 
-1. Demo for use
+1.Demo for use
 a. Instructions to run on data: Open MATLAB with the required toolboxes installed, navigate to the offline_decoding folder, and run the main function.
 
 b. Expected output: 
 Mdl_HMDA: offline model based on HMDA algorithm
 ACC: the offline cross-validation classification accuracy for the 9 basic directional commands.
 
-c. Expected run time for demo on a "normal" desktop computer: about 5 mins.
+b. Expected run time for demo on a "normal" desktop computer: about 5 mins.
 
 
 2. Instructions for use
