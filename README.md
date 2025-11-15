@@ -12,7 +12,7 @@ b. Expected output:
 Mdl_HMDA: offline model based on HMDA algorithm
 ACC: the offline cross-validation classification accuracy for the 9 basic directional commands.
 
-b. Expected run time for demo on a "normal" desktop computer: about 5 mins.
+c. Expected run time for demo on a "normal" desktop computer: about 5 mins.
 
 
 2. Instructions for use
