@@ -18,3 +18,7 @@ b. Expected run time for demo on a "normal" desktop computer: about 5 mins.
 2. Instructions for use
 a. Reproduction instructions.
 The output ACC represents the average over five repetitions of five-fold cross-validation, providing high stability and reproducibility.
+
+
+3. data for use
+   This code provides the raw EEG data of one subject, including five compressed files: "data.zip", "data.z01", "data.z02", "data.z03" and "data.z04". Please unzip them before use to obtain five raw EEG data files in ".cnt" format, including "1.cnt", "2.cnt", "3.cnt", "4.cnt" and "5.cnt".
