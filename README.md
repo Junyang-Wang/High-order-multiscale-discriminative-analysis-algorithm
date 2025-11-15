@@ -21,4 +21,4 @@ The output ACC represents the average over five repetitions of five-fold cross-v
 
 
 3. data for use
-This code provides the raw EEG data of one subject, including five compressed files: "data.zip", "data.z01", "data.z02", "data.z03" and "data.z04". Please unzip them before use to obtain five raw EEG data files in ".cnt" format, including "1.cnt", "2.cnt", "3.cnt", "4.cnt" and "5.cnt".
+a. This code provides the raw EEG data of one subject, including five compressed files: "data.zip", "data.z01", "data.z02", "data.z03" and "data.z04". Please unzip them before use to obtain five raw EEG data files in ".cnt" format, including "1.cnt", "2.cnt", "3.cnt", "4.cnt" and "5.cnt".
